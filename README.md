@@ -17,7 +17,9 @@ The VideoLAN project was started at the university [École Centrale Paris](https
 relicensed VLC under the GPLv2 license in February 2001. Since then, VLC has
 been downloaded **billions** of times.
 
-## License
+#License
+
+##By Bhargav Rahang
 
 **VLC** is released under the GPLv2 *(or later)* license.
 *On some platforms, it is de facto GPLv3, because of the licenses of dependencies*.
